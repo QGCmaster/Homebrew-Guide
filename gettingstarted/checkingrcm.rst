@@ -30,7 +30,7 @@ Step 0: What You Will Need
 * A device to send a payload
 
     * This guide will cover options for Windows, macOS, Linux and Android, though note that options exist for Chromebooks and jailbroken iOS devices.
-    * You can also use a dedicated payload sending device (a "dongle" or modchip) if you have one. Intructions will not be provided on how to use these as each device is different. Check the manufacturers website.
+    * You can also use a dedicated payload sending device (a "dongle" or modchip) if you have one. Instructions will not be provided on how to use these as each device is different. Check the manufacturers website.
 
 * A USB Type C to A/Micro USB/USB Type C cable/adapter
 
